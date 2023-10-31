@@ -13,4 +13,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=semihgul5&theme=onedark)](https://github.com/semihgul5/github-profile-trophy)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://komarev.com/ghpvc/?username=semihgul5&color=blue)
