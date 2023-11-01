@@ -14,6 +14,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=semihgul5&theme=onedark)](https://github.com/semihgul5/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+
+```txt
+Java    57 mins         ████████████████████████▓   98.73 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=semihgul5&color=blue)
