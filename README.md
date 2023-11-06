@@ -11,18 +11,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihgul5&layout=compact)
 
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semihgul)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=semihgul5&theme=onedark)](https://github.com/semihgul5/github-profile-trophy)
-
-<!--START_SECTION:waka-->
-
-```txt
-Java     4 hrs 27 mins   ███████████████▒░░░░░░░░░   61.80 %
-C#       2 hrs 8 mins    ███████▒░░░░░░░░░░░░░░░░░   29.70 %
-XML      18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-Binary   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=semihgul5&color=blue)
