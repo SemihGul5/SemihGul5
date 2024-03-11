@@ -11,9 +11,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semihgul5&layout=compact)
 
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=semihgul)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=semihgul5&theme=onedark)](https://github.com/semihgul5/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=semihgul5&color=blue)
