@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semih Gül</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/semih-g%c3%bcl-96266928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/semih-g%c3%bcl-96266928b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/semih-gül-96266928b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semih-gül-96266928b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26866960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26866960" height="30" width="40" /></a>
 <a href="https://kaggle.com/semihgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="semihgul" height="30" width="40" /></a>
 <a href="https://medium.com/@semih.gul099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@semih.gul099" height="30" width="40" /></a>
